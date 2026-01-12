@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+## 👋 About Me<br><br>Hi, I’m **Devesh Satpute** 👨‍💻  <br>A Computer Science undergraduate from Mumbai with a strong interest in **Data Analytics and Data Science**, along with Python, SQL, and AI fundamentals.<br><br>I’m currently building my foundation in:<br><br>- 📊 **Data Analytics** (SQL – strong focus)<br>- 📈 **Data Science fundamentals** (learning stage)<br>- 🐍 **Python Programming** & **DSA (basics)**<br>- 🤖 **AI & Machine Learning fundamentals**<br>- 🗄️ **Databases & problem-solving**<br><br>I enjoy learning by practicing SQL queries on real-world datasets and solving analytical problems step by step.  <br>My goal is to gain **industry experience through internships** and grow into a skilled **Data Analyst / Data Scientist**.<br><br>---<br><br>## 🛠️ Skills<br><br>**Languages**<br>- Python (Basics)<br>- SQL<br><br>**Data Analytics & Data Science**<br>- Writing analytical SQL queries<br>- Data Cleaning using SQL<br>- JOINs, GROUP BY, HAVING<br>- Subqueries & CTEs<br>- Date & time analysis<br><br>**Tools**<br>- PostgreSQL <br>- Git & GitHub<br>- VS Code<br><br>---<br><br>## 📂 SQL Projects<br><br>### 📊 Job Market Data Analysis (SQL)<br>- Analyzed job posting datasets using SQL<br>- Used **JOINs, GROUP BY, subqueries, CTEs, and date functions**<br>- Extracted insights such as:<br>  - Company-wise job counts<br>  - Monthly and yearly hiring trends<br>  - Filtering jobs by location and benefits<br><br>### 📈 Company & Hiring Trends Analysis (SQL)<br>- Performed company-level analysis using SQL<br>- Identified companies with high hiring activity<br>- Used aggregations and filtering for insights<br>📌 **Project Link:** [GitHub Repository](https://github.com/Data-DS10000/SQL/tree/main/SQL_PROJECTS)<br>*(More SQL projects are actively being added 🚧)*<br><br>---<br><br>## 🎯 Current Focus<br>- Advanced SQL (Window functions – upcoming)<br>- Improving query optimization<br>- Preparing SQL-based case studies for interviews<br>- Working on Data Analytics & Data Science foundations<br><br>---<br><br>## 🧠 Quotes I Believe In<br><br>> “Consistency beats talent when talent doesn’t work consistently.”  <br><br>---<br><br>## 📫 Let’s Connect<br>- 💻 **GitHub:** https://github.com/Data-DS10000<br>- 📍 **Location:** Mumbai, India<br><br>---
 
-<!--
-**Data-DS10000/Data-DS10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Data-DS10000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Data-DS10000&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Data-DS10000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Data-DS10000&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
